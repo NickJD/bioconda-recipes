@@ -46,6 +46,7 @@ requirements:
     - minimap2 >=2.30
     - mmseqs2
     - seqtk >=1.4
+    - pigz >=2.8
 
 test:
   imports:
